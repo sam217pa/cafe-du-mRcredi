@@ -22,4 +22,6 @@ rmarkdown::render("/Users/samuelbarreto/prof/cafe-du-mRcredi/index.R",
 ## */
 
 #' - premier cours sur le tidyverse et tout ça :
-#'   [ici](https://sam217pa.github.io/cafe-du-mRcredi/01-session-chauffe.html)
+#'   [ici](https://sam217pa.github.io/cafe-du-mRcredi/01-session-chauffe.html) -
+#' - second cours sur la grammaire des graphiques :
+#'   [ici](https://sam217pa.github.io/cafe-du-mRcredi/02-premiers-graphiques.html)
