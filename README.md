@@ -1,3 +1,10 @@
+## Café du mRcredi
+
+Tous les mercredis au LEM, on se retrouve autour d'un projecteur, d'un café et
+de quelques terminaux pour apprendre à utiliser la version moderne de R,
+essentiellement composée des package du [`tidyverse`](http://tidyverse.org/).
+
+## Programme
 
 - premier cours sur le tidyverse et tout ça :
 [ici](https://sam217pa.github.io/cafe-du-mRcredi/01-session-chauffe.html)
