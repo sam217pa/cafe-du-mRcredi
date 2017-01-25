@@ -49,7 +49,7 @@ rmarkdown::render("/Users/samuelbarreto/prof/cafe-du-mRcredi/04-recapitulatif.R"
 #' ## Création de la structure de dossier
 #'
 #' Le jeu de donnée est disponible — comme la dernière fois — [à cette
-#' adresse](/articles/cafe_recapitulatif/4580563).
+#' adresse](https://figshare.com/articles/cafe_recapitulatif/4580563).
 #'
 #' Créez un nouveau dossier où vous voulez baptisé `cafe4`, contenant un dossier
 #' `analysis` et un dossier `data-raw`.
