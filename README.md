@@ -16,9 +16,8 @@ essentiellement composée des package du [`tidyverse`](http://tidyverse.org/).
 [ici](/cafe-du-mRcredi/03-data-import-and-clean.html)
 
 - quatrième cours sur la combinaison de données et l'analyse depuis l'import aux
-premiers graphiques :
-[ici](/cafe-du-mRcredi/04-recapitulatif.html)
+premiers graphiques : [ici](/cafe-du-mRcredi/04-recapitulatif.html)
 
 - cinquième cours sur les alternatives aux graphiques en barre, ou pourquoi il
   est souvent préférable d'utiliser une autre représentation que des résumés des
-  données : [ici](/05-fin-des-barplots.html)
+  données : [ici](/cafe-du-mRcredi/05-fin-des-barplots.html)
