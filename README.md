@@ -21,4 +21,4 @@ premiers graphiques :
 
 - cinquième cours sur les alternatives aux graphiques en barre, ou pourquoi il
   est souvent préférable d'utiliser une autre représentation que des résumés des
-  données : [ici](/cafe-du-mRcredi/05-fin-des-barplots.html)
+  données : [ici](/05-fin-des-barplots.html)
