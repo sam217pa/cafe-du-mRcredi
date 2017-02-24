@@ -6,7 +6,7 @@
 #'   html_document:
 #'     highlight: tango
 #'     theme: flatly
-#'     code_folding: hide
+#'     code_folding: show
 #'     toc: true
 #'     toc_depth: 2
 #'     toc_float: true
