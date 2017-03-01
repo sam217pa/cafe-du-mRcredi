@@ -24,3 +24,11 @@ premiers graphiques : [ici](/cafe-du-mRcredi/04-recapitulatif.html)
 
 - septième café sur la production de rapport avec `knitr` :
   [ici](/cafe-du-mRcredi/07-gc-content.html)
+
+## Données
+
+La plupart des données sont publiées sur mon compte
+[figshare](https://figshare.com/), un outil bien pratique permettant de publier
+des jeux de données sous licence CC-BY(-NC) et de leur associer un DOI permanent
+(comme un papier). Le projet rassemblant les différents jeux de données est
+disponible à l'adresse https://figshare.com/projects/cafe_du_mRcredi/18280.
