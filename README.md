@@ -25,6 +25,9 @@ premiers graphiques : [ici](/cafe-du-mRcredi/04-recapitulatif.html)
 - septième café sur la production de rapport avec `knitr` :
   [ici](/cafe-du-mRcredi/07-gc-content.html)
 
+- huitième café sur l'analyse des données des TP d'écomic :
+  [ici](/cafe-du-mRcredi/08-ecomic.html)
+
 ## Données
 
 La plupart des données sont publiées sur mon compte
