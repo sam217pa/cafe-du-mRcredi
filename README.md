@@ -28,6 +28,10 @@ premiers graphiques : [ici](/cafe-du-mRcredi/04-recapitulatif.html)
 - huitième café sur l'analyse des données des TP d'écomic :
   [ici](/cafe-du-mRcredi/08-ecomic.html)
 
+- neuvième café réalisé par nul autre que Mister Tulumello sur l'analyse de
+  l'influence de la chémocyanine sur _Frankia_ :
+  [ici](/cafe-du-mRcredi/09-cafe-joris.html)
+
 ## Données
 
 La plupart des données sont publiées sur mon compte
